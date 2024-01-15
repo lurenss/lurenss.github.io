@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lurenss.github.io/about/sitemap.xml
+Sitemap: https://lurenss.github.io/sitemap.xml
