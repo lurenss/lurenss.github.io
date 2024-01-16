@@ -63,7 +63,7 @@ Alternatively, this technique can also be used to produce synthetic data in inst
 Creating another parallelism between videogames and real life, with a transformer based model trained on user GPS coordinates, is tool that is mimicking the actions and behaviors of individuals based on their history, similar to how city builders or management games function, when the player is aware of traffic congestion, He can take the necessary steps to avoid it, like insert a new road or a new bus line.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/transformer4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/citiesskylin.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
