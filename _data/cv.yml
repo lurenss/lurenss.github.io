@@ -68,6 +68,12 @@
       items: 
         - Hackathon Winner of SFSCON 2023 Edition <a href="https://hackathon.bz.it/edition/november-2023/">SFSCON</a>
 
+- title: Projects
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Founder and contributor of an open-source scraper powered by LLm <a href="https://github.com/VinciGit00/Scrapegraph-ai">ScrapegraphAI</a>
 
 - title: Academic Interests
   type: nested_list
