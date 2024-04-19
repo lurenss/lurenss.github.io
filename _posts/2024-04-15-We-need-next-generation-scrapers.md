@@ -2,7 +2,7 @@
 layout: post
 title:  Why we need next generation of scrapers and it's more serious than you think
 date: 2024-04-15 22:40:00
-description: Transformers the AI breakthrough
+description: 
 tags: scraping AI breakthrough LLMs 
 categories: post
 ---
